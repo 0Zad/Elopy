@@ -4,8 +4,8 @@ ELOpy est un outil de calcul de côte Elo
 # Installation 
 Récupération des sources et installation des dépendances
 ```
-git clone
-cd
+git clone git@github.com:0Zad/Elopy.git
+cd Elopy
 pip install -r requirements.txt
 ```
 

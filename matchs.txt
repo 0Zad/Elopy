@@ -1,0 +1,5 @@
+player_1 player_2 player_3 player_4 player_1 player_2 player_4 player_3
+player_3 player_1 player_1 player_3
+player_4 player_2 player_1 player_1 player_4 player_2
+player_2 player_1 player_1 player_2
+player_2 player_3 player_2 player_3

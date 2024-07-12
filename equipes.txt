@@ -1,0 +1,2 @@
+Equipe_1 : player_1 player_2
+Equipe_2 : player_3 player_4
